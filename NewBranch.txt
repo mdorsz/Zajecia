@@ -1,0 +1,1 @@
+Test tworzenia nowego branch i merge z masterem
