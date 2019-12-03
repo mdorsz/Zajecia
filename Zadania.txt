@@ -1,0 +1,5 @@
+Plik na potrzeby szkolenia z git'a 
+
+Tu mozna umieszczac tresc zadan do wykonania.
+
+
