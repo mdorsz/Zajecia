@@ -2,4 +2,15 @@ Plik na potrzeby szkolenia z git'a
 
 Tu mozna umieszczac tresc zadan do wykonania.
 
+Cz.1
+
+Zalozyc konto na github.com 
+i zrobic pusha.
+
+Cz2.
+
+
+
+
+
 
